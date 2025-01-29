@@ -1,5 +1,7 @@
 # PDF Chatbot
 
+![Screenshot of the app](app_preview.png)
+
 ## Overview
 
 This project is a chatbot powered by the Llama 3.2 model running locally. It allows you to upload a PDF and interact with the content by asking questions and getting relevant responses.
@@ -59,9 +61,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run pdf_chatbot.py
 ```
-
-## Screenshots of the app.
-
-
 
 
