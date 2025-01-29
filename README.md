@@ -37,14 +37,14 @@ cd pdf-chatbot
 
 ### Step 2: Set up the environment
 
-1. **Create a virtual environment:**
+- **Create a virtual environment:**
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
-2. **Install dependencies**
+- **Install dependencies**
 
 ```bash
 pip install -r requirements.txt
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ### Step 3: Run the App
 
-1. **Navigate to the directory where the Py file is stored
+1. **Navigate to the directory where the Py file is stored**
 
 2. **Run the following command**
 
