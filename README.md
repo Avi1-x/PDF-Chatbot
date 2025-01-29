@@ -10,7 +10,6 @@ This project is a chatbot powered by the Llama 3.2 model running locally. It all
 
 - **Local Llama Model**: The chatbot runs the Llama 3.2 model locally.
 - **Interactive Chat**: Ask questions and receive context-aware responses based on the content of the PDF.
-- **Message History**: Tracks conversation history for improved context in responses.
 - **Web Interface**: Simple Streamlit interface for user interaction.
 
 ## Requirements
